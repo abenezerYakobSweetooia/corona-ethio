@@ -3,7 +3,7 @@
     <div class="content">
       <h1 style="color:#10c186;"> Corona watch ET </h1>
       <h2> Corona related information for Ethiopian medical teams</h2>
-      <h4> {{ this.description }}</h4>
+      <p> {{ this.description }}</p>
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
         <Shortcut style="color:#10c186;" link="/getting-started" text="Overview" icon="play-icon" />
