@@ -9,7 +9,7 @@
         <Shortcut link="/theme-configuration" text="Specialitetes" icon="sliders-icon" />
         <Shortcut link="/theme-configuration#changing-colors" text="om colors" icon="eye-icon" />
       </nav>
-      <GitLink class="git" size="large" />
+      
     </div>
   </Layout>
 </template>
