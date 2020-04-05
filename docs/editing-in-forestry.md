@@ -4,39 +4,28 @@ date: 2020-01-02
 slug: forestry-cms
 
 ---
-## Import starter
+## Behandling
 
-[![](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=samuelhorn/jamdocs&engine=other&preview=https://res.cloudinary.com/forestry-io/image/fetch/w_400,h_300,c_fill,f_jpg/https://forestry.io/img/starters/jamdocs.png "Import to Forestry")
+_Läkemedel under prövning_ [**Globalt dashboard pågående kliniska prövningar**](https://www.quiverquant.com/covidtreatments/)
 
-This project has been pre-configured to work with Forestry, just import your repository ✨
-Any changes you make will be commited back to the repo,
+[**Medscape Sammanställning**](https://www.medscape.com/viewarticle/927453?nlid=134727_3901&src=wnl_newsalrt_200328_MSCPEDIT&uac=296399SN&impID=2327297&faf=1#vp_2)
 
-## Start Instant Previews
+[**Harvard Medical School: Treatments for COVID-19**](https://www.health.harvard.edu/diseases-and-conditions/treatments-for-covid-19)
 
-Start the preview environement if you want to be able to preview your website.
+### [**#**](https://coronakollen.org/treatment.html#remdesivir)Remdesivir
 
-Go to **Settings / Preview** and click on the **Start** button.
+[**Adaptive COVID-19 Treatment Trial (ACTT)**](https://clinicaltrials.gov/ct2/show/NCT04280705)
 
-It will clone your site on Forestry preview environment, install the project dependencies, and launch your npm script to launch `gridsome develop`
+### [**#**](https://coronakollen.org/treatment.html#plasmabehandling)Plasmabehandling
 
-![](/forestry-instant-previews.png)
+[**Treatment of 5 Critically Ill Patients With COVID-19 With Convalescent Plasma - JAMA**](https://jamanetwork.com/journals/jama/fullarticle/2763983?fbclid=IwAR0BPvSWUQuKc-ls0jMFJfPODA4nzyFRSxulPCx4caF7Cw7h3IDvbRjYbsU#related-articles-tab)
 
-Once the server is started, you will be able to **click on the preview icon** when you're editing a document (even without saving your changes).
+### [**#**](https://coronakollen.org/treatment.html#hydroxykloroquin-azitromycin)Hydroxykloroquin & Azitromycin
 
-## Adding pages
+[**medRxiv: Efficacy of hydroxychloroquine in patients with COVID-19: results of a randomized clinical trial**](https://www.medrxiv.org/content/10.1101/2020.03.22.20040758v2)
 
-Go in the **Docs** section and click **Create** to add a new page to your documentation. The default front matter template contains `title`, `date` and `slug`fields. You can add new ones by editing the front matter template.
+[**IHU Méditerranée-Infection - Youtube**](https://www.youtube.com/watch?feature=youtu.be&v=ydcrROJFEU0&app=desktop)
 
-## Front matter
+### [**#__](https://coronakollen.org/treatment.html#leronimab)Leronimab*
 
-You can edit the **Documention Page** front matter template by cliking on **Front Matter** in the sidebar. From here you can add new fields to enhance the current template.
-
-![](/forestry-front-matter-template.png)
-
-## Managing sidebar topics
-
-Click on the **Menu** section in Forestry to add a new section or topics from the user interface. Forestry will write the changes to the JSON file. 🎉
-
-![](/forestry-sidebar-settings.png)
-
-See [Forestry documentation](https://forestry.io/docs) if you want to know more.
+[**https://www.drugs.com/medical-answers/leronlimab-pro-140-treat-covid-19-coronavirus-3535182/**](https://www.drugs.com/medical-answers/leronlimab-pro-140-treat-covid-19-coronavirus-3535182/ "https://www.drugs.com/medical-answers/leronlimab-pro-140-treat-covid-19-coronavirus-3535182/")
