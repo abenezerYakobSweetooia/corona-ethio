@@ -1,5 +1,5 @@
 ---
-title: Forestry CMS
+title: Specialty
 date: 2020-01-02
 slug: specialty
 
