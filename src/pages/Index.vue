@@ -6,9 +6,9 @@
       <h4> {{ this.description }}</h4>
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
-        <Shortcut style="color:green;" link="/getting-started" text="Actions" icon="play-icon" />
-        <Shortcut link="/theme-configuration" text="Specialitetes" icon="sliders-icon" />
-        <Shortcut link="/theme-configuration#changing-colors" text="om colors" icon="eye-icon" />
+        <Shortcut style="color:#156b3f;" link="/getting-started" text="overview" icon="play-icon" />
+        <Shortcut style="color: #f9dd13;" link="/theme-configuration" text="treatment" icon="sliders-icon" />
+        <Shortcut style="color:#e23d27;"link="/theme-configuration#changing-colors" text="specialty" icon="eye-icon" />
       </nav>
       
     </div>
@@ -57,7 +57,7 @@ export default {
 h1 {
   text-align: center;
   max-width: 600px;
-  margin: 1.5em auto 1.5em;
+  margin: 1em auto 1em;
 
   @include respond-above(md) {
     max-width: 1000px;
