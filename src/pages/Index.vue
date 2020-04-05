@@ -1,7 +1,7 @@
 <template>
   <Layout :sidebar="false">
     <div class="content">
-      <h1 style="color:#10c186;"> corona watch ET </h1>
+      <h1 style="color:#10c186;"> Corona watch ET </h1>
       <h2> Corona related information for Ethiopian medical teams</h2>
       <h4> {{ this.description }}</h4>
       <nav>
