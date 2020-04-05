@@ -41,7 +41,7 @@ export default {
     return {
       title: this.description,
       meta: [
-        { key: 'description', name: 'description', content: 'A theme for static site documentation based on Gridsome, ready to deploy to Netlify in one click.' }
+        { key: 'description', name: ' Coronakollen drivs ideellt och samlar resurser om COVID-19 på ett och samma ställe för vårdpersonal. Har du länkar du vill bidra med, skriva dokument eller hjälpa till att driva sidan, får du gärna ta kontakt!' }
       ]
     }
   }
