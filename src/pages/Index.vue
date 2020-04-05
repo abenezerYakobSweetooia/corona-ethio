@@ -1,7 +1,8 @@
 <template>
   <Layout :sidebar="false">
     <div class="content">
-      <h4> Corona related information for Ethiopian medical teams  - {{ this.description }}</h4>
+      <h1> Corona related information for Ethiopian medical teams</h1>
+      <h4> {{ this.description }}</h4>
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
         <Shortcut link="/getting-started" text="Actions" icon="play-icon" />
