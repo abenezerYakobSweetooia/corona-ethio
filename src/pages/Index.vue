@@ -6,9 +6,9 @@
       <p> {{ this.description }}</p>
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
-        <Shortcut style="color:#10c186;" link="/getting-started" text="Overview" icon="heart-icon" />
-        <Shortcut style="color: #10c186;" link="/theme-configuration" text="Treatment" icon="activity-icon" />
-        <Shortcut style="color:#10c186;"link="/changing-colors" text="Specialty" icon="eye-icon" />
+        <Shortcut style="color:#10c186;" link="/overview" text="Overview" icon="heart-icon" />
+        <Shortcut style="color: #10c186;" link="/treatment" text="Treatment" icon="activity-icon" />
+        <Shortcut style="color:#10c186;"link="/specialty" text="Specialty" icon="eye-icon" />
       </nav>
       
     </div>
