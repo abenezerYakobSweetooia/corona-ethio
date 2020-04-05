@@ -5,20 +5,20 @@
       "topics": [
         {
           "title": "Overview",
-          "slug": "getting-started"
+          "slug": "overview"
         }
       ]
     },
     {
-      "section": "Setup",
+      "section": "Detail information",
       "topics": [
         {
           "title": "Treatment",
-          "slug": "theme-configuration"
+          "slug": "treatment"
         },
         {
-          "title": "Forestry CMS",
-          "slug": "forestry-cms"
+          "title": "Specialty",
+          "slug": "specialty"
         }
       ]
     }
