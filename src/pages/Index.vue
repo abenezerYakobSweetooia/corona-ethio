@@ -1,14 +1,14 @@
 <template>
   <Layout :sidebar="false">
     <div class="content">
-      <h1> corona watch ET </h1>
+      <h1 style="color:#10c186;"> corona watch ET </h1>
       <h2> Corona related information for Ethiopian medical teams</h2>
       <h4> {{ this.description }}</h4>
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
-        <Shortcut style="color:#156b3f;" link="/getting-started" text="overview" icon="play-icon" />
-        <Shortcut style="color: #f9dd13;" link="/theme-configuration" text="treatment" icon="sliders-icon" />
-        <Shortcut style="color:#e23d27;"link="/theme-configuration#changing-colors" text="specialty" icon="eye-icon" />
+        <Shortcut style="color:#10c186;" link="/getting-started" text="overview" icon="play-icon" />
+        <Shortcut style="color: #10c186;" link="/theme-configuration" text="treatment" icon="sliders-icon" />
+        <Shortcut style="color:#10c186;"link="/theme-configuration#changing-colors" text="specialty" icon="eye-icon" />
       </nav>
       
     </div>
