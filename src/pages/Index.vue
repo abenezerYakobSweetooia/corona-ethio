@@ -34,7 +34,7 @@ export default {
   },
   data() {
     return {
-      description: 'Coronakollen drivs ideellt och samlar resurser om COVID-19 på ett och samma ställe för vårdpersonal. Har du länkar du vill bidra med, skriva dokument eller hjälpa till att driva sidan, får du gärna ta kontakt!'
+      description: 'The Coronakollen is run voluntarily and collects resources on COVID-19 in one place for healthcare professionals. If you have links you want to contribute, write documents or help run the page, please feel free to contact us!'
     }
   },
   metaInfo() {
