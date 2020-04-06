@@ -1,8 +1,8 @@
 <template>
   <Layout :sidebar="false">
     <div class="content">
-      <h1 style="color:#10c186;"> Corona watch ET </h1>
-      <h2 style="text-align: center;"> Corona related information for Ethiopian medical teams</h2>
+      <h1 style="color:#10c186;"> CONVI-19 Team Ethiopia </h1>
+      <h2 style="text-align: center;"> CONVI-19 related information for Ethiopian medical teams</h2>
       <p style="text-align: center;"> {{ this.description }}</p>
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
