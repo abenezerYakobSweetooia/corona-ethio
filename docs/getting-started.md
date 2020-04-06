@@ -16,9 +16,7 @@ slug: overview
 
 ## EPIDEMIOLOGY
 
-![](/ethio_medical.jpg)
-
-### Patient Characteristics:
+Patient Characteristics:
 
 * Median hospitalized age varies by country and case report, mostly between 40s-70s ([**Wang et al**](https://www.ncbi.nlm.nih.gov/pubmed?term=32031570), [**Arentz et al**](https://jamanetwork.com/journals/jama/fullarticle/2763485))
 * Initial male predominance but less clear as more data appears ([**Wang et al**](https://www.ncbi.nlm.nih.gov/pubmed?term=32031570), [**Arentz et al**](https://jamanetwork.com/journals/jama/fullarticle/2763485))
@@ -81,6 +79,8 @@ More variable -- most common cough (48%), pharyngeal erythema (46%), fever (42%)
 Very little known, but very small (15) case series without clear difference in outcomes of mild disease or clear adverse impact on fetus/childbirth ([**Liu et al**](https://www.ajronline.org/doi/10.2214/AJR.20.23072))
 
 * If you have a pregnant patient, please refer for the [**PRIORITY study**](https://priority.ucsf.edu/) to help us learn more about symptoms & outcomes in pregnancy
+
+[0dfd715a-8b6a-45bf-9d41-ea86cfd00ad8.jpg?](https://static-cdn.sr.se/sida/images/2054/0dfd715a-8b6a-45bf-9d41-ea86cfd00ad8.jpg? "0dfd715a-8b6a-45bf-9d41-ea86cfd00ad8.jpg?")
 
 ```bash
 test 
