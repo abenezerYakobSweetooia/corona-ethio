@@ -80,7 +80,9 @@ Very little known, but very small (15) case series without clear difference in o
 
 * If you have a pregnant patient, please refer for the [**PRIORITY study**](https://priority.ucsf.edu/) to help us learn more about symptoms & outcomes in pregnancy
 
-[0dfd715a-8b6a-45bf-9d41-ea86cfd00ad8.jpg?](https://static-cdn.sr.se/sida/images/2054/0dfd715a-8b6a-45bf-9d41-ea86cfd00ad8.jpg? "0dfd715a-8b6a-45bf-9d41-ea86cfd00ad8.jpg?")
+![](/ethio_medical.jpg)
+
+    
 
 ```bash
 test 
