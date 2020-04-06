@@ -2,8 +2,8 @@
   <Layout :sidebar="false">
     <div class="content">
       <h1 style="color:#10c186;"> Corona watch ET </h1>
-      <h2> Corona related information for Ethiopian medical teams</h2>
-      <p> {{ this.description }}</p>
+      <h2 style="text-align: center;"> Corona related information for Ethiopian medical teams</h2>
+      <p style="text-align: center;"> {{ this.description }}</p>
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
         <Shortcut style="color:#10c186;" link="/overview" text="Overview" icon="heart-icon" />
