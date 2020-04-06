@@ -4,7 +4,7 @@ date: 2018-09-15T07:42:34.000+00:00
 slug: overview
 
 ---
-## Frontlinjeinformation om COVID
+## ![](/ethio_medical.jpg)Frontlinjeinformation om COVID
 
 ## CLINICAL GUIDES/GENERAL INFO
 
