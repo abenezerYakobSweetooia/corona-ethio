@@ -4,7 +4,7 @@ date: 2018-09-15T07:42:34.000+00:00
 slug: overview
 
 ---
-## ![](/ethio_medical.jpg)Frontlinjeinformation om COVID
+## Frontlinjeinformation om COVID
 
 ## CLINICAL GUIDES/GENERAL INFO
 
@@ -15,6 +15,8 @@ slug: overview
 * [**UpToDate COVID19**](https://www.uptodate.com/contents/coronavirus-disease-2019-covid-19)
 
 ## EPIDEMIOLOGY
+
+![](/ethio_medical.jpg)
 
 ### Patient Characteristics:
 
