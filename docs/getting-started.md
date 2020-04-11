@@ -80,6 +80,46 @@ Very little known, but very small (15) case series without clear difference in o
 
 * If you have a pregnant patient, please refer for the [**PRIORITY study**](https://priority.ucsf.edu/) to help us learn more about symptoms & outcomes in pregnancy
 
+### **WHO**
+
+[**WHO Global Database**](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov?fbclid=IwAR1aaZk1fODdOJZI2LiBqStQaxOrMJLcrvkEo37Santk_Mq59pCcCA9yn8g)
+
+[**Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19)**](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)
+
+### Medscape
+
+[**Medscape COVID**](https://www.medscape.com/resource/coronavirus)
+
+### **UpToDate**
+
+[**UpToDate**](https://www.uptodate.com/contents/coronavirus-disease-2019-covid-19)
+
+### Guidelines
+
+* [**Massachusetts General Hospital**](https://www.uptodate.com/contents/coronavirus-disease-2019-covid-19)
+* [**Mount Sinai**](https://www.mountsinai.org/files/MSHealth/Assets/HS/About/Coronavirus/MountSinaiHealthSystem-TreatmentGuidelines-COVID-3-17.pdf)
+* [**COVID-19 Chinese Consultation Center Release**](https://covid-19.alibabacloud.com/)
+* [**WHO**](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance)
+* [**COVID One Page**](https://www.onepagericu.com/)
+
+### [**#**](https://coronakollen.org/#oversikter)Overviews
+
+* [**EmCrit**](https://emcrit.org/ibcc/covid19/)
+* [**EB Medicine**](https://www.ebmedicine.net/topics/infectious-disease/COVID-19)
+* [**Medscape**](https://www.medscape.com/resource/coronavirus)
+* [**Seattle Intensivist One Page Summary**](https://www.kevinmd.com/blog/2020/03/an-intensivists-one-pager-on-covid-19.html)
+* [**CDC for healthcare professionals**](https://www.cdc.gov/coronavirus/2019-ncov/hcp/index.html?fbclid=IwAR3AKR7294gMyD4eqseI2dgkKd5VgUE6OdM3VJwNmEuWZST3EnTE8D7yZhA)
+
+### Personal Protective Equipment (PPE)
+
+[**CDC: Desinfection FFP**](https://www.cdc.gov/coronavirus/2019-ncov/hcp/ppe-strategy/decontamination-reuse-respirators.html)
+
+[**Ann Occup Hyg: Evaluation of Five Decontamination Methods for Filtering Facepiece Respirators**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2781738/)
+
+[**Association between 2019-nCoV transmission and N95 respirator use**](https://www.journalofhospitalinfection.com/article/S0195-6701(20)30097-9/fulltext)
+
+[**Ultraviolet Germicidal Irradiation (UVGI) on N95 Respirator**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4699414/)
+
 ![](/ethio_medical.jpg)
 
 ```bash
