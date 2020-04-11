@@ -23,8 +23,12 @@
       ]
     },
     {
-      "section": "speciality",
+      "section": "Speciality",
       "topics": [
+        {
+          "title": "list of Specialties",
+          "slug": "list-of-specialties"
+        },
         {
           "title": "Anesthesiology and Intensive care",
           "slug": "anesthesiology-and-intensive-care"
