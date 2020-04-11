@@ -54,7 +54,7 @@ N95s > surgical masks >>> homemade cloth masks > nothing against droplet transmi
 
 2015 large, prospective randomized control trial of cloth masks vs clinical masks. Relative risk of 13 for influenza-like illnesses in healthcare workers wearing cloth masks vs. standard clinical masks. ([**MacIntyre et al**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4420971/?fbclid=IwAR0l8pDr_lbIc08Si_V0ArBf_7I-xunS1kb2MAfifS56Z9yiL2Aao6020yw#__ffn_sectitle))
 
-## CLINICAL FEATURES
+### _CLINICAL FEATURES_
 
 ### Symptoms
 
@@ -80,21 +80,21 @@ Very little known, but very small (15) case series without clear difference in o
 
 * If you have a pregnant patient, please refer for the [**PRIORITY study**](https://priority.ucsf.edu/) to help us learn more about symptoms & outcomes in pregnancy
 
-### **WHO**
+### _WHO_
 
 [**WHO Global Database**](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov?fbclid=IwAR1aaZk1fODdOJZI2LiBqStQaxOrMJLcrvkEo37Santk_Mq59pCcCA9yn8g)
 
 [**Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19)**](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)
 
-### Medscape
+### _Medscape_
 
 [**Medscape COVID**](https://www.medscape.com/resource/coronavirus)
 
-### **UpToDate**
+### _UpToDate_
 
 [**UpToDate**](https://www.uptodate.com/contents/coronavirus-disease-2019-covid-19)
 
-### Guidelines
+### **_Guidelines_**
 
 * [**Massachusetts General Hospital**](https://www.uptodate.com/contents/coronavirus-disease-2019-covid-19)
 * [**Mount Sinai**](https://www.mountsinai.org/files/MSHealth/Assets/HS/About/Coronavirus/MountSinaiHealthSystem-TreatmentGuidelines-COVID-3-17.pdf)
@@ -102,7 +102,7 @@ Very little known, but very small (15) case series without clear difference in o
 * [**WHO**](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance)
 * [**COVID One Page**](https://www.onepagericu.com/)
 
-#### Overviews
+#### **_Overviews_**
 
 * [**EmCrit**](https://emcrit.org/ibcc/covid19/)
 * [**EB Medicine**](https://www.ebmedicine.net/topics/infectious-disease/COVID-19)
@@ -110,7 +110,7 @@ Very little known, but very small (15) case series without clear difference in o
 * [**Seattle Intensivist One Page Summary**](https://www.kevinmd.com/blog/2020/03/an-intensivists-one-pager-on-covid-19.html)
 * [**CDC for healthcare professionals**](https://www.cdc.gov/coronavirus/2019-ncov/hcp/index.html?fbclid=IwAR3AKR7294gMyD4eqseI2dgkKd5VgUE6OdM3VJwNmEuWZST3EnTE8D7yZhA)
 
-#### Personal Protective Equipment (PPE)
+#### **_Personal Protective Equipment (PPE)_**
 
 [**CDC: Desinfection FFP**](https://www.cdc.gov/coronavirus/2019-ncov/hcp/ppe-strategy/decontamination-reuse-respirators.html)
 
@@ -120,7 +120,7 @@ Very little known, but very small (15) case series without clear difference in o
 
 [**Ultraviolet Germicidal Irradiation (UVGI) on N95 Respirator**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4699414/)
 
-### Articles
+### **_Articles_**
 
 [**NEJM Re**](https://www.nejm.org/coronavirus?query=RP)**source gathering**
 
@@ -168,11 +168,11 @@ Very little known, but very small (15) case series without clear difference in o
 
 [**Lancet: COVID-19: learning from experience**](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30686-3/fulltext)
 
-#### Riskfactors
+#### Risk factors
 
 [**BMJ: Covid-19: risk factors for severe disease and death**](https://www.bmj.com/content/368/bmj.m1198)
 
-#### Clinical Trials
+#### **_Clinical Trials_**
 
 [**Global dashboard ongoing tr**](https://www.quiverquant.com/covidtreatments/)**ials**
 
@@ -182,21 +182,21 @@ Very little known, but very small (15) case series without clear difference in o
 
 [**The ORION statement: guidelines for transparent reporting of Outbreak Reports and Intervention studies Of Nosocomial infection**](https://academic.oup.com/jac/article/59/5/833/729189)
 
-#### Scoretools
+#### **_Scoretools_**
 
 [**MDCalc: HScore for Reactive Hemophagocytic Syndrome**](https://www.mdcalc.com/hscore-reactive-hemophagocytic-syndrome#use-cases)
 
 [**MDCalc: Sequential Organ Failure Assessment (SOFA) Score**](https://www.mdcalc.com/sequential-organ-failure-assessment-sofa-score)
 
-#### Courses
+#### **_Courses_**
 
 ?????
 
-#### Trackers
+#### **_Trackers_**
 
 * [**Johns Hopkins**](https://coronavirus.jhu.edu/map.html?fbclid=IwAR1R9BopZLi7WC_T-gvc7pApcdcfUgO1zH8xfQQRwQQiMl69ON2LtmwTG48)
 
-#### Podcasts
+#### **_Podcasts_**
 
 [**EM:RAP**](https://covid.emrap.org/)
 
@@ -204,7 +204,7 @@ COVID-19-relaterat material
 
 [**This week in virology**](http://www.microbe.tv/twiv/)
 
-#### Youtube
+#### **_Youtube_**
 
 [**Medcram: Coronavirus Pandemic Update 42: Immunity to COVID-19 and is Reinfection Possible?**](https://www.youtube.com/watch?feature=youtu.be&v=q4P91VrfPGw&app=desktop)
 
