@@ -60,6 +60,10 @@
         {
           "title": "Pediatrics",
           "slug": "pediatrics"
+        },
+        {
+          "title": "Palliativ medicine",
+          "slug": "palliativ-medicine"
         }
       ]
     }
