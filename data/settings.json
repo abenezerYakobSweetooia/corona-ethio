@@ -26,6 +26,10 @@
       "section": "speciality",
       "topics": [
         {
+          "title": "Psychiatry",
+          "slug": "psychiatry"
+        },
+        {
           "title": "Anesthesiology and Intensive care",
           "slug": "anesthesiology-and-intensive-care"
         },
