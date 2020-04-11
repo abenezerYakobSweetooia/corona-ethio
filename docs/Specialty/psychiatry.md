@@ -1,5 +1,5 @@
 ---
-title: psychiatry
+title: Psychiatry
 date: 
 slug: psychiatry
 
