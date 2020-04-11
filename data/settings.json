@@ -26,10 +26,6 @@
       "section": "speciality",
       "topics": [
         {
-          "title": "Obstetrics",
-          "slug": "obstetrics"
-        },
-        {
           "title": "Anesthesiology and Intensive care",
           "slug": "anesthesiology-and-intensive-care"
         },
@@ -48,6 +44,18 @@
         {
           "title": "Cardiology",
           "slug": "cardiology"
+        },
+        {
+          "title": "opthamology",
+          "slug": "opthamology"
+        },
+        {
+          "title": "Obstetrics",
+          "slug": "obstetrics"
+        },
+        {
+          "title": "",
+          "slug": ""
         }
       ]
     }
