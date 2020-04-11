@@ -34,12 +34,12 @@
           "slug": "anesthesiology-and-intensive-care"
         },
         {
-          "title": "Family Medicine",
-          "slug": "family-medicine"
-        },
-        {
           "title": "Emergency Medicine",
           "slug": "emergency-medicine"
+        },
+        {
+          "title": "Family Medicine",
+          "slug": "family-medicine"
         },
         {
           "title": "Immunology",
