@@ -56,6 +56,10 @@
         {
           "title": "Gastroenterology",
           "slug": "gastroenterology"
+        },
+        {
+          "title": "Pediatrics",
+          "slug": "pediatrics"
         }
       ]
     }
