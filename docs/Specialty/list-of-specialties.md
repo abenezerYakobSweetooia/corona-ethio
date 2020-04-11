@@ -11,9 +11,9 @@ slug: list-of-specialties
  5. [Cardiology](../cardiology)
  6. [Obstetrics](../obstetrics)
  7. [Opthamology](../opthamology)
- 8. Gastroenterology
- 9. Pediatrics
-10. Palliativ medicine
-11. Psychiatry
-12. Radiology
-13. ENT
+ 8. [Gastroenterology](../gastroenterology)
+ 9. [Pediatrics](../pediatrics)
+10. [Palliativ medicine](../palliativ-medicine)
+11. [Psychiatry](../psychiatry)
+12. [Radiology](../radiology)
+13. [ENT](../ent)
