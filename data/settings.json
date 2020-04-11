@@ -26,8 +26,8 @@
       "section": "speciality",
       "topics": [
         {
-          "title": "Psychiatry",
-          "slug": "psychiatry"
+          "title": "Radiology",
+          "slug": "radiology"
         },
         {
           "title": "Anesthesiology and Intensive care",
@@ -68,6 +68,10 @@
         {
           "title": "Palliativ medicine",
           "slug": "palliativ-medicine"
+        },
+        {
+          "title": "Psychiatry",
+          "slug": "psychiatry"
         }
       ]
     }
