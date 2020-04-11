@@ -26,6 +26,10 @@
       "section": "speciality",
       "topics": [
         {
+          "title": "Family Medicine",
+          "slug": "family-medicine"
+        },
+        {
           "title": "Anesthesiology and Intensive care",
           "slug": "anesthesiology-and-intensive-care"
         },
