@@ -26,24 +26,28 @@
       "section": "speciality",
       "topics": [
         {
-          "title": "Cardiology",
-          "slug": "cardiology"
-        },
-        {
-          "title": "Immunology",
-          "slug": "iImmunology"
-        },
-        {
-          "title": "Family Medicine",
-          "slug": "family-medicine"
+          "title": "Obstetrics",
+          "slug": "obstetrics"
         },
         {
           "title": "Anesthesiology and Intensive care",
           "slug": "anesthesiology-and-intensive-care"
         },
         {
+          "title": "Family Medicine",
+          "slug": "family-medicine"
+        },
+        {
           "title": "Emergency Medicine",
           "slug": "emergency-medicine"
+        },
+        {
+          "title": "Immunology",
+          "slug": "iImmunology"
+        },
+        {
+          "title": "Cardiology",
+          "slug": "cardiology"
         }
       ]
     }
