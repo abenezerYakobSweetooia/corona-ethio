@@ -9,8 +9,8 @@ slug: list-of-specialties
  3. [Family Medicine](../family-medicine)
  4. [Immunology](../immunology)
  5. [Cardiology](../cardiology)
- 6. [Obstetrics](../opthamology)
- 7. Opthamology
+ 6. [Obstetrics](../obstetrics)
+ 7. [Opthamology](../opthamology)
  8. Gastroenterology
  9. Pediatrics
 10. Palliativ medicine
