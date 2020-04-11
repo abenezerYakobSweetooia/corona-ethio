@@ -1,7 +1,7 @@
 ---
 title: List of specialties
 date: 
-slug: specialty
+slug: "../specialty"
 
 ---
  1. [Anesthesiology and Intensive care](../anesthesiology-and-intensive-care)
