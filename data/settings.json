@@ -10,19 +10,6 @@
       ]
     },
     {
-      "section": "Detail information",
-      "topics": [
-        {
-          "title": "Treatment",
-          "slug": "treatment"
-        },
-        {
-          "title": "Specialty",
-          "slug": "specialty"
-        }
-      ]
-    },
-    {
       "section": "Speciality",
       "topics": [
         {
@@ -80,6 +67,15 @@
         {
           "title": "ENT",
           "slug": "ent"
+        }
+      ]
+    },
+    {
+      "section": "Detail information",
+      "topics": [
+        {
+          "title": "Treatment",
+          "slug": "treatment"
         }
       ]
     }
