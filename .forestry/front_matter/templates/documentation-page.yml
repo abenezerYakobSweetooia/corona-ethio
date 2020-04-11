@@ -16,5 +16,6 @@ fields:
   label: slug
 pages:
 - docs/Specialty/anesthesiology-and-intensive-care.md
+- docs/Specialty/family-medicine.md
 - docs/Specialty/list-of-specialties.md
 - docs/editing-in-forestry.md
