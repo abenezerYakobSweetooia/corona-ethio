@@ -26,10 +26,6 @@
       "section": "speciality",
       "topics": [
         {
-          "title": "ENT",
-          "slug": "ent"
-        },
-        {
           "title": "Anesthesiology and Intensive care",
           "slug": "anesthesiology-and-intensive-care"
         },
@@ -76,6 +72,10 @@
         {
           "title": "Radiology",
           "slug": "radiology"
+        },
+        {
+          "title": "ENT",
+          "slug": "ent"
         }
       ]
     }
