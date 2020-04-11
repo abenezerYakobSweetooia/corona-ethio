@@ -15,4 +15,5 @@ fields:
   name: slug
   label: slug
 pages:
+- docs/Specialty/list-of-specialties.md
 - docs/editing-in-forestry.md
