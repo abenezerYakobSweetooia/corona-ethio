@@ -4,28 +4,16 @@ date: 2020-01-02
 slug: specialty
 
 ---
-## Behandling
-
-_Läkemedel under prövning_ [**Globalt dashboard pågående kliniska prövningar**](https://www.quiverquant.com/covidtreatments/)
-
-[**Medscape Sammanställning**](https://www.medscape.com/viewarticle/927453?nlid=134727_3901&src=wnl_newsalrt_200328_MSCPEDIT&uac=296399SN&impID=2327297&faf=1#vp_2)
-
-[**Harvard Medical School: Treatments for COVID-19**](https://www.health.harvard.edu/diseases-and-conditions/treatments-for-covid-19)
-
-### [**#**](https://coronakollen.org/treatment.html#remdesivir)Remdesivir
-
-[**Adaptive COVID-19 Treatment Trial (ACTT)**](https://clinicaltrials.gov/ct2/show/NCT04280705)
-
-### [**#**](https://coronakollen.org/treatment.html#plasmabehandling)Plasmabehandling
-
-[**Treatment of 5 Critically Ill Patients With COVID-19 With Convalescent Plasma - JAMA**](https://jamanetwork.com/journals/jama/fullarticle/2763983?fbclid=IwAR0BPvSWUQuKc-ls0jMFJfPODA4nzyFRSxulPCx4caF7Cw7h3IDvbRjYbsU#related-articles-tab)
-
-### [**#**](https://coronakollen.org/treatment.html#hydroxykloroquin-azitromycin)Hydroxykloroquin & Azitromycin
-
-[**medRxiv: Efficacy of hydroxychloroquine in patients with COVID-19: results of a randomized clinical trial**](https://www.medrxiv.org/content/10.1101/2020.03.22.20040758v2)
-
-[**IHU Méditerranée-Infection - Youtube**](https://www.youtube.com/watch?feature=youtu.be&v=ydcrROJFEU0&app=desktop)
-
-### [**#__](https://coronakollen.org/treatment.html#leronimab)Leronimab*
-
-[**https://www.drugs.com/medical-answers/leronlimab-pro-140-treat-covid-19-coronavirus-3535182/**](https://www.drugs.com/medical-answers/leronlimab-pro-140-treat-covid-19-coronavirus-3535182/ "https://www.drugs.com/medical-answers/leronlimab-pro-140-treat-covid-19-coronavirus-3535182/")
+ 1. [**Anesthesiology and Intensive care**]()
+ 2. Emergency Medicine
+ 3. Family Medicine
+ 4. Immunology
+ 5. Cardiology
+ 6. Obstetrics
+ 7. Opthamology
+ 8. Gastroenterology
+ 9. Pediatrics
+10. Palliativ medicine
+11. Psychiatry
+12. Radiology
+13. ENT
