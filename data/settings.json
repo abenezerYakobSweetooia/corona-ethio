@@ -26,6 +26,10 @@
       "section": "speciality",
       "topics": [
         {
+          "title": "Cardiology",
+          "slug": "cardiology"
+        },
+        {
           "title": "Immunology",
           "slug": "iImmunology"
         },
