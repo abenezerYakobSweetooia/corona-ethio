@@ -1,6 +1,6 @@
 ---
-title: IImmunology
+title: Immunology
 date: 
-slug: iImmunology
+slug: immunology
 
 ---
