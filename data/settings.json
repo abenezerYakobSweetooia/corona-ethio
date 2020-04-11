@@ -26,6 +26,10 @@
       "section": "speciality",
       "topics": [
         {
+          "title": "Immunology",
+          "slug": "iImmunology"
+        },
+        {
           "title": "Family Medicine",
           "slug": "family-medicine"
         },
