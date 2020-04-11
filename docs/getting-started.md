@@ -102,7 +102,7 @@ Very little known, but very small (15) case series without clear difference in o
 * [**WHO**](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance)
 * [**COVID One Page**](https://www.onepagericu.com/)
 
-### [**#**](https://coronakollen.org/#oversikter)Overviews
+#### Overviews
 
 * [**EmCrit**](https://emcrit.org/ibcc/covid19/)
 * [**EB Medicine**](https://www.ebmedicine.net/topics/infectious-disease/COVID-19)
@@ -110,7 +110,7 @@ Very little known, but very small (15) case series without clear difference in o
 * [**Seattle Intensivist One Page Summary**](https://www.kevinmd.com/blog/2020/03/an-intensivists-one-pager-on-covid-19.html)
 * [**CDC for healthcare professionals**](https://www.cdc.gov/coronavirus/2019-ncov/hcp/index.html?fbclid=IwAR3AKR7294gMyD4eqseI2dgkKd5VgUE6OdM3VJwNmEuWZST3EnTE8D7yZhA)
 
-### Personal Protective Equipment (PPE)
+#### Personal Protective Equipment (PPE)
 
 [**CDC: Desinfection FFP**](https://www.cdc.gov/coronavirus/2019-ncov/hcp/ppe-strategy/decontamination-reuse-respirators.html)
 
@@ -119,6 +119,96 @@ Very little known, but very small (15) case series without clear difference in o
 [**Association between 2019-nCoV transmission and N95 respirator use**](https://www.journalofhospitalinfection.com/article/S0195-6701(20)30097-9/fulltext)
 
 [**Ultraviolet Germicidal Irradiation (UVGI) on N95 Respirator**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4699414/)
+
+### Articles
+
+[**NEJM Re**](https://www.nejm.org/coronavirus?query=RP)**source gathering**
+
+[**LitCovid literature hub**](https://www.ncbi.nlm.nih.gov/research/coronavirus/?fbclid=IwAR2WTLb7tB3S6rrwGS1d-hOS6FlYDYPjt_vOEhK6F_hca4shvIkEtXEvKxA)
+
+#### Virology
+
+[**NEJM: SARS-CoV-2 Viral Load in Upper Respiratory Specimens of Infected Patients**](https://www.nejm.org/doi/10.1056/NEJMc2001737)
+
+[**COVID-19: Attacks the 1-Beta Chain of Hemoglobin and Captures the Porphyrin to Inhibit Human Heme Metabolism**](https://chemrxiv.org/articles/COVID-19_Disease_ORF8_and_Surface_Glycoprotein_Inhibit_Heme_Metabolism_by_Binding_to_Porphyrin/11938173)
+
+[**Zn2+ Inhibits Coronavirus and Arterivirus RNA Polymerase Activity In Vitro and Zinc Ionophores Block the Replication of These Viruses in Cell Culture**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2973827/)
+
+#### Diagnostics
+
+[**Journal of Infection: Profile of Specific Antibodies to SARS-CoV-2: The First Report**](https://www.journalofinfection.com/article/S0163-4453(20)30138-9/fulltext)
+
+#### Farmacology
+
+[**EMA: NSAID and COVID-19**](https://www.ema.europa.eu/en/news/ema-gives-advice-use-non-steroidal-anti-inflammatories-covid-19)
+
+[**Renin-Angiotensin System Blockers and the COVID-19 Pandemic**](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.15082)
+
+[**NEJM: Renin–Angiotensin–Aldosterone System Inhibitors in Patients with Covid-19**](https://www.nejm.org/doi/full/10.1056/NEJMsr2005760?query=featured_home)
+
+#### Genetics
+
+[**The COVID-19 Genetics Host Initiative**](https://www.covid19hg.com/)
+
+#### Health care workers
+
+[**JAMA: Supporting the Health Care Workforce During the COVID-19 Global Epidemic**](https://jamanetwork.com/journals/jama/fullarticle/2763136)
+
+#### Epidemiology och disease control
+
+[**Lancet: Estimates of the severity of coronavirus disease 2019: a model-based analysis**](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30243-7/fulltext)
+
+[**BMJ: Covid-19: identifying and isolating asymptomatic people helped eliminate virus in Italian village**](https://www.bmj.com/content/368/bmj.m1165)
+
+[**Imperial College: Estimating the number of infections and the impact of nonpharmaceutical interventions on COVID-19 in 11 European countries**](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-Europe-estimates-and-NPI-impact-30-03-2020.pdf?fbclid=IwAR0hBXPiFmItCWZcxMFhUFdqTLV6-yMj4XFmgILGPpgF5SVDDGZA1UG-bBQ)
+
+[**Imperial College: Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand**](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf)
+
+[**medRxiv: Correlation between universal BCG vaccination policy and reduced morbidity and mortality for COVID-19: an epidemiological study**](https://www.medrxiv.org/content/10.1101/2020.03.24.20042937v1)
+
+[**Lancet: COVID-19: learning from experience**](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30686-3/fulltext)
+
+#### Riskfactors
+
+[**BMJ: Covid-19: risk factors for severe disease and death**](https://www.bmj.com/content/368/bmj.m1198)
+
+#### Clinical Trials
+
+[**Global dashboard ongoing tr**](https://www.quiverquant.com/covidtreatments/)**ials**
+
+[**Efficacy and Safety Human Coronavirus Immune Plasma (HCIP) vs. Control (SARS-CoV-2 Non-immune Plasma) Among Adults Exposed to COVID-19**](https://clinicaltrials.gov/ct2/show/NCT04323800?cond=Covid-19&draw=2&rank=100)
+
+[**Nitric Oxide Gas Inhalation for Severe Acute Respiratory Syndrome in COVID-19. (NOSARSCOVID)**](https://clinicaltrials.gov/ct2/show/NCT04290871)
+
+[**The ORION statement: guidelines for transparent reporting of Outbreak Reports and Intervention studies Of Nosocomial infection**](https://academic.oup.com/jac/article/59/5/833/729189)
+
+#### Scoretools
+
+[**MDCalc: HScore for Reactive Hemophagocytic Syndrome**](https://www.mdcalc.com/hscore-reactive-hemophagocytic-syndrome#use-cases)
+
+[**MDCalc: Sequential Organ Failure Assessment (SOFA) Score**](https://www.mdcalc.com/sequential-organ-failure-assessment-sofa-score)
+
+#### Courses
+
+?????
+
+#### Trackers
+
+* [**Johns Hopkins**](https://coronavirus.jhu.edu/map.html?fbclid=IwAR1R9BopZLi7WC_T-gvc7pApcdcfUgO1zH8xfQQRwQQiMl69ON2LtmwTG48)
+
+#### Podcasts
+
+[**EM:RAP**](https://covid.emrap.org/)
+
+COVID-19-relaterat material
+
+[**This week in virology**](http://www.microbe.tv/twiv/)
+
+#### Youtube
+
+[**Medcram: Coronavirus Pandemic Update 42: Immunity to COVID-19 and is Reinfection Possible?**](https://www.youtube.com/watch?feature=youtu.be&v=q4P91VrfPGw&app=desktop)
+
+## 
 
 ![](/ethio_medical.jpg)
 
