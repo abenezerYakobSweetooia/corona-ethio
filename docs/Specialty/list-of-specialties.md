@@ -4,7 +4,7 @@ date:
 slug: list-of-specialties
 
 ---
- 1. [Anesthesiology and Intensive care](anesthesiology-and-intensive-care)
+ 1. [Anesthesiology and Intensive care](../anesthesiology-and-intensive-care)
  2. Emergency Medicine
  3. Family Medicine
  4. Immunology
