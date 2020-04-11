@@ -7,9 +7,9 @@ slug: list-of-specialties
  1. [Anesthesiology and Intensive care](../anesthesiology-and-intensive-care)
  2. [Emergency Medicine](../family-medicine)
  3. [Family Medicine](../family-medicine)
- 4. Immunology
- 5. Cardiology
- 6. Obstetrics
+ 4. [Immunology](../immunology)
+ 5. [Cardiology](../cardiology)
+ 6. [Obstetrics](../opthamology)
  7. Opthamology
  8. Gastroenterology
  9. Pediatrics
