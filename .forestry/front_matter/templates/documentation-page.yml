@@ -16,6 +16,7 @@ fields:
   label: slug
 pages:
 - docs/Specialty/anesthesiology-and-intensive-care.md
+- docs/Specialty/cardiology.md
 - docs/Specialty/emergency-medicine.md
 - docs/Specialty/family-medicine.md
 - docs/Specialty/iimmunology.md
