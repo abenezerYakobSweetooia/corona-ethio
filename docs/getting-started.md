@@ -4,7 +4,7 @@ date: 2018-09-15T07:42:34.000+00:00
 slug: overview
 
 ---
-## Frontlinjeinformation om COVID
+## First line information about COVID-19
 
 ## CLINICAL GUIDES/GENERAL INFO
 
@@ -18,7 +18,7 @@ slug: overview
 
 Patient Characteristics:
 
-* Median hospitalized age varies by country and case report, mostly between 40s-70s ([**Wang et al**](https://www.ncbi.nlm.nih.gov/pubmed?term=32031570), [**Arentz et al**](https://jamanetwork.com/journals/jama/fullarticle/2763485))
+* Median hospitalised age varies by country and case report, mostly between 40s-70s ([**Wang et al**](https://www.ncbi.nlm.nih.gov/pubmed?term=32031570), [**Arentz et al**](https://jamanetwork.com/journals/jama/fullarticle/2763485))
 * Initial male predominance but less clear as more data appears ([**Wang et al**](https://www.ncbi.nlm.nih.gov/pubmed?term=32031570), [**Arentz et al**](https://jamanetwork.com/journals/jama/fullarticle/2763485))
 * Most patients with comorbidities, esp HTN, DM, CVD, chronic respiratory disease Incubation period: median 5-7 days, 98% within 12 days ([**Lauer et al**](https://annals.org/aim/fullarticle/2762808/incubation-period-coronavirus-disease-2019-covid-19-from-publicly-reported), [**Tian et al**](https://www.journalofinfection.com/article/S0163-4453(20)30101-8/fulltext)) R0: around 2-2.5 in general population ([**WHO**](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200306-sitrep-46-covid-19.pdf)), up to 11 aboard cruise ships ([**Mizumoto & Chowell**](https://www.sciencedirect.com/science/article/pii/S2468042720300063)) but can be lowered through distancing & public health controls Viral shedding: can be present 1-3 days prior to onset of symptoms, median duration 20 days with durations up to 37 days in recovered patients ([**Zhou et al**](https://www.ncbi.nlm.nih.gov/pubmed/32171076/))
 
@@ -81,8 +81,6 @@ Very little known, but very small (15) case series without clear difference in o
 * If you have a pregnant patient, please refer for the [**PRIORITY study**](https://priority.ucsf.edu/) to help us learn more about symptoms & outcomes in pregnancy
 
 ![](/ethio_medical.jpg)
-
-    
 
 ```bash
 test 
