@@ -34,16 +34,14 @@ export default {
   },
   data() {
     return {
-      description: 'EthiohealthCovid is run voluntarily and collects resources on COVID-19 in one place for healthcare professionals. There is new information available daily and we want to stay up to date because lack of evidence based medicine is a huge treat to patients and healthcare workers’ safety. 
-If you have links you want to contribute, write documents or help run the page, please feel free to contact us! bfmekuria@gmail.com or sfmekuria@gmail.com'
+      description: 'EthiohealthCovid is run voluntarily and collects resources on COVID-19 in one place for healthcare professionals. There is new information available daily and we want to stay up to date because lack of evidence based medicine is a huge treat to patients and healthcare workers’ safety. If you have links you want to contribute, write documents or help run the page, please feel free to contact us! bfmekuria@gmail.com or sfmekuria@gmail.com'
     }
   },
   metaInfo() {
     return {
       title: this.description,
       meta: [
-        { key: 'description', name: ' EthiohealthCovid is run voluntarily and collects resources on COVID-19 in one place for healthcare professionals. There is new information available daily and we want to stay up to date because lack of evidence based medicine is a huge treat to patients and healthcare workers’ safety. 
-If you have links you want to contribute, write documents or help run the page, please feel free to contact us! bfmekuria@gmail.com or sfmekuria@gmail.com' }
+        { key: 'description', name: ' EthiohealthCovid is run voluntarily and collects resources on COVID-19 in one place for healthcare professionals. There is new information available daily and we want to stay up to date because lack of evidence based medicine is a huge treat to patients and healthcare workers’ safety. If you have links you want to contribute, write documents or help run the page, please feel free to contact us! bfmekuria@gmail.com or sfmekuria@gmail.com' }
       ]
     }
   }
