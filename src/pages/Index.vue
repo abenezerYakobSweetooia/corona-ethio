@@ -1,14 +1,14 @@
 <template>
   <Layout :sidebar="false">
     <div class="content">
-      <h1 style="color:#10c186;"> CONVI Team Ethiopia </h1>
+      <h1 style="color:#10c186;"> Team Ethiopia </h1>
       <h2 style="text-align: center;"> COVID-19 related information for Ethiopian medical teams</h2>
       <p style="text-align: center;"> {{ this.description }}</p>
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
         <Shortcut style="color:#10c186;" link="/overview" text="Overview" icon="heart-icon" />
         <Shortcut style="color: #10c186;" link="/treatment" text="Treatment" icon="activity-icon" />
-        <Shortcut style="color:#10c186;"link="/specialty" text="speciality" icon="eye-icon" />
+        <Shortcut style="color:#10c186;"link="/specialty" text="Speciality" icon="eye-icon" />
       </nav>
       
     </div>
