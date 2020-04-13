@@ -8,7 +8,7 @@
         <!-- To use other icons here, you need to import them in the Shortcut component -->
         <Shortcut style="color:#10c186;" link="/overview" text="Overview" icon="heart-icon" />
         <Shortcut style="color: #10c186;" link="/treatment" text="Treatment" icon="activity-icon" />
-        <Shortcut style="color:#10c186;"link="/specialty" text="Specialty" icon="eye-icon" />
+        <Shortcut style="color:#10c186;"link="/specialty" text="speciality" icon="eye-icon" />
       </nav>
       
     </div>
@@ -34,7 +34,8 @@ export default {
   },
   data() {
     return {
-      description: 'The Coronakollen is run voluntarily and collects resources on COVID-19 in one place for healthcare professionals. If you have links you want to contribute, write documents or help run the page, please feel free to contact us!'
+      description: 'EthiohealthCovid is run voluntarily and collects resources on COVID-19 in one place for healthcare professionals. There is new information available daily and we want to stay up to date because lack of evidence based medicine is a huge treat to patients and healthcare workers’ safety. 
+If you have links you want to contribute, write documents or help run the page, please feel free to contact us! bfmekuria@gmail.com or sfmekuria@gmail.com'
     }
   },
   metaInfo() {
