@@ -63,8 +63,8 @@ slug: "../specialty"
 
 ### Guidelines
 
-* [**ACC Clinical Guidance and Practice**](https://www.acc.org/latest-in-cardiology/features/accs-coronavirus-disease-2019-covid-19-hub#sort=@fcommonsortdate90022 descending)
-* [**Percutaneous coronaintervention and Covid 19**](https://www.acc.org/latest-in-cardiology/features/accs-coronavirus-disease-2019-covid-19-hub#sort=@fcommonsortdate90022 descending)
+* \[**ACC Clinical Guidance and Practice**\](https://www.acc.org/latest-in-cardiology/features/accs-coronavirus-disease-2019-covid-19-hub#sort=@fcommonsortdate90022 descending)
+* \[**Percutaneous coronaintervention and Covid 19**\](https://www.acc.org/latest-in-cardiology/features/accs-coronavirus-disease-2019-covid-19-hub#sort=@fcommonsortdate90022 descending)
 
 ### Other information
 
@@ -101,11 +101,12 @@ slug: "../specialty"
 * [**Joint Statement from AGA, ACG, AASLD, ASGE**](https://www.gastro.org/press-release/joint-gi-society-message-covid-19-clinical-insights-for-our-community-of-gastroenterologists-and-gastroenterology-care-providers)
 * [**ASGE Statement on Endoscopy Precautions**](https://els-jbs-prod-cdn.literatumonline.com/pb/assets/raw/Health Advance/journals/ymge/CoronavirusOutbreak-1584123417883.pdf)
 
-   Paediatrics
+## Paediatrics
 
-Children's Hospital Boston och Center for Bioethics Harvard Medical School perspektiv om hur man ransonerar IVA vård i dessa omständigheter.
+* [**Children's Hospital Boston och Center for Bioethics Harvard Medical School perspektiv om hur man ransonerar IVA vård i dessa omständigheter.**](https://www.nejm.org/doi/full/10.1056/NEJMp2005689?query=RP)
 
-Unlikeliness of newborns being infected from Covid 19 affected mother
+
+* [**Unlikeliness of newborns being infected from Covid 19 affected mother**](https://www.medscape.com/viewarticle/926894?nlid=134567_2046&src=WNL_mdplsnews_200320_mscpedit_peds&uac=143022AZ&spon=9&impID=2318487&faf=1)
 
     •	AAP Early COVID-19 Data/Pedi Epidemiology 
     
