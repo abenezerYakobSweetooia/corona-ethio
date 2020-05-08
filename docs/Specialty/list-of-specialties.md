@@ -61,19 +61,16 @@ slug: "../specialty"
 
 ## Cardiology
 
-Guidelines
+### Guidelines
 
-ACC Clinical Guidance and Practice
+* [**ACC Clinical Guidance and Practice**](https://www.acc.org/latest-in-cardiology/features/accs-coronavirus-disease-2019-covid-19-hub#sort=@fcommonsortdate90022 descending)
+* [**Percutaneous coronaintervention and Covid 19**](https://www.acc.org/latest-in-cardiology/features/accs-coronavirus-disease-2019-covid-19-hub#sort=@fcommonsortdate90022 descending)
 
-Percutaneous coronaintervention and Covid 19
+### Other information
 
-Other information
-
-Statement from ACC
-
-Diabetes och hypertoni vid Covid 19
-
-ACC Statement on Rapid Implementation of Telehealth in Cards Clinic
+* [**Statement from ACC**](https://www.acc.org/\~/media/665AFA1E710B4B3293138D14BE8D1213.pdf)
+* [**Diabetes och hypertoni vid Covid 19**](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30116-8/fulltext)
+* [**ACC Statement on Rapid Implementation of Telehealth in Cards Clinic**](https://www.acc.org/latest-in-cardiology/articles/2020/03/01/08/42/feature-telehealth-rapid-implementation-for-your-cardiology-clinic-coronavirus-disease-2019-covid-19)
 
 Obstetrician
 
