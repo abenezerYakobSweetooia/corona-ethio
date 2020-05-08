@@ -80,13 +80,19 @@ slug: "../specialty"
 
 ### Other information
 
-ACOG Practice Advisory
-Guideline pregnancy
-CDC Pregnancy and Breastfeeding
-CDC COCA Webinar on Pregnanct and Pediatrics
-ACOG Outpatient Assessment of Pregnant Women with COVID-19
-CDC and ACOG Infection Prevention and Control in Inpatient Settings
-OUTPATIENT / URGENT CARE PROTOCOLS
+* [**ACOG Practice Advisory**]
+* [**Guideline pregnancy**]
+* [**CDC Pregnancy and Breastfeeding**]
+* [**CDC COCA Webinar on Pregnanct and Pediatrics**]
+* [**ACOG Outpatient Assessment of Pregnant Women with COVID-19**]
+* [**CDC and ACOG Infection Prevention and Control in Inpatient Settings**]
+* [**OUTPATIENT / URGENT CARE PROTOCOLSACOG Practice Advisory**]
+* [**Guideline pregnancy**]
+* [**CDC Pregnancy and Breastfeeding**]
+* [**CDC COCA Webinar on Pregnanct and Pediatrics**]
+* [**ACOG Outpatient Assessment of Pregnant Women with COVID-19**]
+* [**CDC and ACOG Infection Prevention and Control in Inpatient Settings**]
+* [**OUTPATIENT / URGENT CARE PROTOCOLS**]S
 
 ## Ophthalmology
 
