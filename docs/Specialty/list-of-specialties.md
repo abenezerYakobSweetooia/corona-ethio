@@ -28,9 +28,9 @@ slug: "../specialty"
 
 ## ECMO
 
-ECMO in COVID-19
+* [ECMO in COVID-19](https://www.elso.org/covid19)
 
-Case studies
+### Case studies
 
 NEJM: Covid-19 in Critically Ill Patients in the Seattle Region — Case Series
 
