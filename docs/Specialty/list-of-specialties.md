@@ -63,8 +63,8 @@ slug: "../specialty"
 
 ### Guidelines
 
-* \[**ACC Clinical Guidance and Practice**\](https://www.acc.org/latest-in-cardiology/features/accs-coronavirus-disease-2019-covid-19-hub#sort=@fcommonsortdate90022 descending)
-* \[**Percutaneous coronaintervention and Covid 19**\](https://www.acc.org/latest-in-cardiology/features/accs-coronavirus-disease-2019-covid-19-hub#sort=@fcommonsortdate90022 descending)
+* [**ACC Clinical Guidance and Practice**](https://www.acc.org/latest-in-cardiology/features/accs-coronavirus-disease-2019-covid-19-hub#sort=@fcommonsortdate90022 descending)
+* [**Percutaneous coronaintervention and Covid 19**](https://www.acc.org/latest-in-cardiology/features/accs-coronavirus-disease-2019-covid-19-hub#sort=@fcommonsortdate90022 descending)
 
 ### Other information
 
