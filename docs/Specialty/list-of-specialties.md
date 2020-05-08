@@ -115,15 +115,15 @@ slug: "../specialty"
 
 * [**Clinical and CT Differences Between Peds and Adults w COVID-19**](https://onlinelibrary.wiley.com/doi/10.1002/ppul.24718)
 
-  Psychiatry
+Psychiatry
 
 APA - Mental health impacts resources for psychiatrists
 
 Palliative Medicine
 
-    •	WHO – World Health Organisation – Palliative Care
-    
-    •	WPCA – Worldwide Palliative Care Alliance
+WHO – World Health Organisation – Palliative Care
+
+WPCA – Worldwide Palliative Care Alliance
 
 Radiology
 
