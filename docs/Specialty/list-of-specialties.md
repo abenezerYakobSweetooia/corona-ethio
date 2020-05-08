@@ -63,8 +63,8 @@ slug: "../specialty"
 
 ### Guidelines
 
-* [**ACC Clinical Guidance and Practice**](https://www.acc.org/latest-in-cardiology/features/accs-coronavirus-disease-2019-covid-19-hub#sort=@fcommonsortdate90022 descending)
-* [**Percutaneous coronaintervention and Covid 19**](https://www.acc.org/latest-in-cardiology/features/accs-coronavirus-disease-2019-covid-19-hub#sort=@fcommonsortdate90022 descending)
+* \[**ACC Clinical Guidance and Practice**\](https://www.acc.org/latest-in-cardiology/features/accs-coronavirus-disease-2019-covid-19-hub#sort=@fcommonsortdate90022 descending)
+* \[**Percutaneous coronaintervention and Covid 19**\](https://www.acc.org/latest-in-cardiology/features/accs-coronavirus-disease-2019-covid-19-hub#sort=@fcommonsortdate90022 descending)
 
 ### Other information
 
@@ -105,68 +105,51 @@ slug: "../specialty"
 
 * [**Children's Hospital Boston och Center for Bioethics Harvard Medical School perspektiv om hur man ransonerar IVA vård i dessa omständigheter.**](https://www.nejm.org/doi/full/10.1056/NEJMp2005689?query=RP)
 * [**Unlikeliness of newborns being infected from Covid 19 affected mother**](https://www.medscape.com/viewarticle/926894?nlid=134567_2046&src=WNL_mdplsnews_200320_mscpedit_peds&uac=143022AZ&spon=9&impID=2318487&faf=1)
-
-
 * [**AAP Early COVID-19 Data/Pedi Epidemiology**](https://pediatrics.aappublications.org/content/pediatrics/early/2020/03/16/peds.2020-0702.full.pdf)
-
-
 * [**Mitigate the effects of home confinement on children during the COVID-19 outbrea**](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30547-X/fulltext?fbclid=IwAR3a3qIYb7Tp72YSLWlazVikS8i4t3GAq265aBgk6ciTpdkG9L14mK6q2Y4)k
-
-
 * [**Clinical and CT Differences Between Peds and Adults w COVID-19**](https://onlinelibrary.wiley.com/doi/10.1002/ppul.24718)
 
-Psychiatry
+## Psychiatry
 
-APA - Mental health impacts resources for psychiatrists
+* [**APA - Mental health impacts resources for psychiatrist**](https://www.psychiatry.org/news-room/apa-blogs/apa-blog/2020/03/covid-19-mental-health-impacts-resources-for-psychiatrists)s
 
-Palliative Medicine
+## Palliative Medicine
 
-WHO – World Health Organisation – Palliative Care
+* [**WHO – World Health Organisation – Palliative Care**](www.who.int/cancer/palliative/en/)
+* [**WPCA – Worldwide Palliative Care Alliance**](www.thewpca.org/)
 
-WPCA – Worldwide Palliative Care Alliance
+## Radiology
 
-Radiology
+* [**Thoracic radiology overview**](https://thoracicrad.org)
+* [**Expert Consensus Statement on Reporting Chest CT Findings Related to COVID-19**](https://pubs.rsna.org/doi/10.1148/ryct.2020200152?fbclid=IwAR0BggGPoP3q6k7V351EHibqTU8y-lU7K7KToGlvSzahGhmm_E1Lg1_KZGc&)
+* [**Society of Italian Radiology: multiple cases of CXR and CT scans**](https://www.sirm.org/category/senza-categoria/covid-19/)
+* [**Findings of lung ultrasonography of novel corona virus pneumonia**](https://link.springer.com/article/10.1007/s00134-020-05996-6)
 
-Thoracic radiology overview
+## Ultrasound
 
-Expert Consensus Statement on Reporting Chest CT Findings Related to COVID-19
+* [**Brigham & Women's hospital: Ultrasound video of Lungs**](https://www.youtube.com/watch?v=EQtzCVMC_Dk&app=desktop)
 
-Society of Italian Radiology: multiple cases of CXR and CT scans
+## ENT
 
-Findings of lung ultrasonography of novel corona virus pneumonia
+* [**Covid 19 Resources**](https://www.entnet.org/content/coronavirus-disease-2019-resources)
+* [**Practice management**](https://www.entnet.org/content/otolaryngologists-and-covid-19-pandemic)
+* [**Protective measures for otolaryngologists**](msg.entnet.org/q/12EIW9Xc9uAbtUuhwnjhFknB/wv?fbclid=IwAR172YEFj3TtITQKInYahIUVFqKnWnWpqGBjHx2Kb74k1aLJi3-CB3kuq4o)
+* [**Otolaryngologists May Contract COVID-19 During Surgery**](https://www.enttoday.org/article/otolaryngologists-may-contract-covid-19-during-surgery/)
+* [**Lost Smell and Taste Hint COVID-19 Can Target the Nervous System**](https://www.the-scientist.com/news-opinion/lost-smell-and-taste-hint-covid-19-can-target-the-nervous-system-67312)
 
-Ultrasound
+## Emergency care
 
-Brigham & Women's hospital: Ultrasound video of Lungs
+### Resources
 
-ENT
+* [**American College of Emergency Physicians - COVID-19**](https://www.acep.org/COVID-19)
+* [**EM:RAP CorePendium**](https://www.emrap.org/corependium/chapter/rec906m1mD6SRH9np/Novel-Coronavirus-2019-COVID-19?MainSearch="Novel+Coronavirus+2019+(COVID-19)"&SearchType="text")
 
-Covid 19 Resources
+### Overall information
 
-Practice management
+* [**AHA Guidance for CPR, Emergency CV Care Amid COVID-19**](https://www.medscape.com/viewarticle/927389)
+* [**Strategies for Optimizing the Supply of N95 Respirators: Crisis/Alternate Strategies**](https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirators-strategy/crisis-alternate-strategies.html)
 
-Protective measures for otolaryngologists
+## Podcasts
 
-Otolaryngologists May Contract COVID-19 During Surgery
-
-Lost Smell and Taste Hint COVID-19 Can Target the Nervous System
-
-Emergency care
-
-Resources
-
-American College of Emergency Physicians - COVID-19
-
-EM:RAP CorePendium
-
-Overall information
-
-AHA Guidance for CPR, Emergency CV Care Amid COVID-19
-
-Strategies for Optimizing the Supply of N95 Respirators: Crisis/Alternate Strategies
-
-Podcasts
-
-EM:RAP
-
-St. Emlyn's
+* [**EM:RAP**](https://covid.emrap.org/)
+* [**St. Emlyn's**](https://www.stemlynsblog.org/category/podcast/)
