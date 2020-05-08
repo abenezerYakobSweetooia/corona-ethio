@@ -56,11 +56,10 @@ slug: "../specialty"
 
 ## Articles
 
-Molecular immune pathogenesis and diagnosis of COVID-19, Li et al.
+* [**Molecular immune pathogenesis and diagnosis of COVID-19, Li et al.**](https://www.sciencedirect.com/science/article/pii/S2095177920302045)
+* [**COVID-19 infection: the perspectives on immune responses, Shi et al.**](https://www.nature.com/articles/s41418-020-0530-3.pdf?fbclid=IwAR2gc8Vn_8lbYk9q1zvYJQdwjLswNZ4StbKF3qR-kmAMfHnuMzn-TXJv1Ik)
 
-COVID-19 infection: the perspectives on immune responses, Shi et al.
-
-Cardiology
+## Cardiology
 
 Guidelines
 
