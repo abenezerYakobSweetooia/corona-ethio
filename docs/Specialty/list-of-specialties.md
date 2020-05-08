@@ -37,13 +37,11 @@ slug: "../specialty"
 
 ## General surgery
 
-Guidelines for Surgery
+* [**Guidelines for Surgery**](https://www.rcseng.ac.uk/coronavirus/joint-guidance-for-surgeons-v2/)
+* [**ACS Statement on Elective Procedures**](https://www.facs.org/about-acs/covid-19/information-for-surgeons)
+* [**Surgical Grand Rounds Discussion, video**](https://www.youtube.com/watch?v=lF0xkXHp7SI&feature=youtu.be&fbclid=IwAR3Y2i4DH6u66ToiZ0CPnE22EIcl-g2mkvMOF4Ulp89JHRgmVep0jvUkfx4)
 
-ACS Statement on Elective Procedures
-
-Surgical Grand Rounds Discussion, video
-
-General medicine
+## General medicine
 
 Managing COVID-19 in General Practice
 
