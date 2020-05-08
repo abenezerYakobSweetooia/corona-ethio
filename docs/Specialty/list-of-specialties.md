@@ -108,11 +108,11 @@ slug: "../specialty"
 
 * [**Unlikeliness of newborns being infected from Covid 19 affected mother**](https://www.medscape.com/viewarticle/926894?nlid=134567_2046&src=WNL_mdplsnews_200320_mscpedit_peds&uac=143022AZ&spon=9&impID=2318487&faf=1)
 
-    •	AAP Early COVID-19 Data/Pedi Epidemiology 
+ AAP Early COVID-19 Data/Pedi Epidemiology 
+ 
+Mitigate the effects of home confinement on children during the COVID-19 outbreak 
     
-    •	Mitigate the effects of home confinement on children during the COVID-19 outbreak 
-    
-    •	Clinical and CT Differences Between Peds and Adults w COVID-19
+Clinical and CT Differences Between Peds and Adults w COVID-19
 
 Psychiatry
 
