@@ -72,13 +72,13 @@ slug: "../specialty"
 * [**Diabetes och hypertoni vid Covid 19**](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30116-8/fulltext)
 * [**ACC Statement on Rapid Implementation of Telehealth in Cards Clinic**](https://www.acc.org/latest-in-cardiology/articles/2020/03/01/08/42/feature-telehealth-rapid-implementation-for-your-cardiology-clinic-coronavirus-disease-2019-covid-19)
 
-Obstetrician
+## Obstetrician
 
-Guidelines
+### Guidelines
 
-Coronavirus infection and pregnancy
+* [**Coronavirus infection and pregnancy**](https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/covid-19-virus-infection-and-pregnancy/)
 
-Other information
+### Other information
 
     •	ACOG Practice Advisory
     
