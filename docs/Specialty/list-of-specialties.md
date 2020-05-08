@@ -4,7 +4,7 @@ date:
 slug: "../specialty"
 
 ---
-> ## **Overview of measures within specialties during COVID-19 pandemic**
+## **Overview of measures within specialties during COVID-19 pandemic**
 
 #### Speciality guides - Advice for clinicians on COVID-19
 
@@ -12,7 +12,7 @@ slug: "../specialty"
 
 ### Airways / Intubation / Breathing
 
-* [Non-Invasive Ventilation from Italian Thoracic Society](www.aiponet.it/component/attachments/download/2626.html?fbclid=IwAR1fpf8Q1w2RbsdMB0-B6897J09fnqUsgILhSmNwR5MNXL_lkjqgLPqlK64)
+* [**Non-Invasive Ventilation from Italian Thoracic Society**](www.aiponet.it/component/attachments/download/2626.html?fbclid=IwAR1fpf8Q1w2RbsdMB0-B6897J09fnqUsgILhSmNwR5MNXL_lkjqgLPqlK64)
 * [COVID-19 airway management: better care through simulation](https://litfl.com/covid19-airway-management-better-care-through-simulation/')
 * [Dominating the vent - EMCRIT](https://emcrit.org/emcrit/vent-part-1/?fbclid=IwAR2U2f9qWxSbw9NdErCdfYQk_rZbAKC-h651JdDs5x5cvAbgP56TRnaCNLQ)
 * [The Management of the COVID-19 Patient with Respiratory Failure](https://ccme.osu.edu/WebCastDetail.aspx?ID=876)
