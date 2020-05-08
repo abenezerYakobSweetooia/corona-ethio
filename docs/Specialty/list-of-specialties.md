@@ -96,13 +96,12 @@ slug: "../specialty"
 
 * [**JAMA: Characteristics of Ocular Findings of Patients With Coronavirus Disease 2019 (COVID-19) in Hubei Province, China**]()
 
-Gastroenterology
+## Gastroenterology
 
-Joint Statement from AGA, ACG, AASLD, ASGE
+* [**Joint Statement from AGA, ACG, AASLD, ASGE**](https://www.gastro.org/press-release/joint-gi-society-message-covid-19-clinical-insights-for-our-community-of-gastroenterologists-and-gastroenterology-care-providers)
+* [**ASGE Statement on Endoscopy Precautions**](https://els-jbs-prod-cdn.literatumonline.com/pb/assets/raw/Health Advance/journals/ymge/CoronavirusOutbreak-1584123417883.pdf)
 
-ASGE Statement on Endoscopy Precautions
-
-Paediatrics
+   Paediatrics
 
 Children's Hospital Boston och Center for Bioethics Harvard Medical School perspektiv om hur man ransonerar IVA vård i dessa omständigheter.
 
