@@ -33,9 +33,9 @@ slug: "../specialty"
 
 ### Further resources
 
-Resources for non-ICU doctors
+* [**Resources for non-ICU doctors**](https://www.propofology.com/non-icu.html)
 
-General surgery
+## General surgery
 
 Guidelines for Surgery
 
