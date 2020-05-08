@@ -1,14 +1,14 @@
 ---
-title: List of specialties
+title: Specialties
 date: 
 slug: "../specialty"
 
 ---
-Overview of measures within specialties during COVID-19 pandemic
+## **Overview of measures within specialties during COVID-19 pandemic**
 
-Speciality guides - Advice for clinicians on COVID-19
+### Speciality guides - Advice for clinicians on COVID-19
 
-Anaesthesia and Intensive Care
+#### Anaesthesia and Intensive Care
 
 Airways / Intubation / Breathing
 
