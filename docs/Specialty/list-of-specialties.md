@@ -43,11 +43,10 @@ slug: "../specialty"
 
 ## General medicine
 
-Managing COVID-19 in General Practice
+* [**Managing COVID-19 in General Practice**](https://www.futurelearn.com/courses/management-of-covid-19-in-general-practice)
+* [**American Association of Family Physicians COVID-19 resurser**](https://www.aafp.org/patient-care/emergency/2019-coronavirus/covid-19_resources.html)
 
-American Association of Family Physicians COVID-19 resurser
-
-Immunology
+## Immunology
 
 Corona virus - T cell mediated response
 
