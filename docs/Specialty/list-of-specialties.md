@@ -94,7 +94,7 @@ slug: "../specialty"
 
 ### Articles
 
-* [**JAMA: Characteristics of Ocular Findings of Patients With Coronavirus Disease 2019 (COVID-19) in Hubei Province, China**]()
+* [**JAMA: Characteristics of Ocular Findings of Patients With Coronavirus Disease 2019 (COVID-19) in Hubei Province, China**](https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2764083)
 
 ## Gastroenterology
 
