@@ -13,60 +13,8 @@
       "section": "Speciality",
       "topics": [
         {
-          "title": "List of Specialties",
+          "title": "Specialties",
           "slug": "specialty"
-        },
-        {
-          "title": "Anesthesiology and Intensive care",
-          "slug": "anesthesiology-and-intensive-care"
-        },
-        {
-          "title": "Emergency Medicine",
-          "slug": "emergency-medicine"
-        },
-        {
-          "title": "Family Medicine",
-          "slug": "family-medicine"
-        },
-        {
-          "title": "Immunology",
-          "slug": "immunology"
-        },
-        {
-          "title": "Cardiology",
-          "slug": "cardiology"
-        },
-        {
-          "title": "Opthamology",
-          "slug": "opthamology"
-        },
-        {
-          "title": "Obstetrics",
-          "slug": "obstetrics"
-        },
-        {
-          "title": "Gastroenterology",
-          "slug": "gastroenterology"
-        },
-        {
-          "title": "Pediatrics",
-          "slug": "pediatrics"
-        },
-        {
-          "title": "Palliativ medicine",
-          "slug": "palliativ-medicine"
-        },
-        {
-          "title": "Psychiatry",
-          "slug": "psychiatry"
-        },
-        {
-          "title": "Radiology",
-          "slug": "radiology"
-        },
-        {
-          "title": "ENT",
-          "slug": "ent"
         }
       ]
     },
