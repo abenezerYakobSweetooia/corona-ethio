@@ -90,11 +90,11 @@ slug: "../specialty"
 
 ## Ophthalmology
 
-Ophthalmology updates and guidelines
+* [**Ophthalmology updates and guidelines**](https://www.aao.org/headline/alert-important-coronavirus-context)
 
-Articles
+### Articles
 
-JAMA: Characteristics of Ocular Findings of Patients With Coronavirus Disease 2019 (COVID-19) in Hubei Province, China
+* [**JAMA: Characteristics of Ocular Findings of Patients With Coronavirus Disease 2019 (COVID-19) in Hubei Province, China**]()
 
 Gastroenterology
 
