@@ -13,19 +13,14 @@ slug: "../specialty"
 ### Airways / Intubation / Breathing
 
 * [Non-Invasive Ventilation from Italian Thoracic Society](www.aiponet.it/component/attachments/download/2626.html?fbclid=IwAR1fpf8Q1w2RbsdMB0-B6897J09fnqUsgILhSmNwR5MNXL_lkjqgLPqlK64)
-
-
 * [COVID-19 airway management: better care through simulation](https://litfl.com/covid19-airway-management-better-care-through-simulation/')
-
-
 * [Dominating the vent - EMCRIT](https://emcrit.org/emcrit/vent-part-1/?fbclid=IwAR2U2f9qWxSbw9NdErCdfYQk_rZbAKC-h651JdDs5x5cvAbgP56TRnaCNLQ)
-
-
 * [The Management of the COVID-19 Patient with Respiratory Failure](https://ccme.osu.edu/WebCastDetail.aspx?ID=876)
 
->     Airway management and tracheal intubation COVID-19 - MJA
 
-### Systematic overview
+* [Airway management and tracheal intubation COVID-19 - MJA](https://www.mja.com.au/journal/2020/212/10/consensus-statement-safe-airway-society-principles-airway-management-and?fbclid=IwAR1LrDAPuMZIlra2-6lSWqDseo11a1GgTcJ4sWvdobcZRNEAzH5U0XU0lU4)
+
+  ### Systematic overview
 
 Cochrane Intensive care - SARS and similar conditions
 
