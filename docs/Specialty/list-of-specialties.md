@@ -12,7 +12,7 @@ slug: "../specialty"
 
 ### Airways / Intubation / Breathing
 
-Non-Invasive Ventilation from Italian Thoracic Society
+* [Non-Invasive Ventilation from Italian Thoracic Society](www.aiponet.it/component/attachments/download/2626.html?fbclid=IwAR1fpf8Q1w2RbsdMB0-B6897J09fnqUsgILhSmNwR5MNXL_lkjqgLPqlK64)
 
 COVID-19 airway management: better care through simulation
 
