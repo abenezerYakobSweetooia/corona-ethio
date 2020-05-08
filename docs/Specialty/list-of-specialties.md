@@ -28,7 +28,7 @@ slug: "../specialty"
 
 ## ECMO
 
-* [ECMO in COVID-19](https://www.elso.org/covid19)
+* [**ECMO in COVID-19**](https://www.elso.org/covid19)
 
 ### Case studies
 
