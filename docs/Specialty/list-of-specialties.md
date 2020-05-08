@@ -4,27 +4,13 @@ date:
 slug: "../specialty"
 
 ---
- 1. [Anesthesiology and Intensive care](../anesthesiology-and-intensive-care)
- 2. [Emergency Medicine](../emergency-medicine)
- 3. [Family Medicine](../family-medicine)
- 4. [Immunology](../immunology)
- 5. [Cardiology](../cardiology)
- 6. [Obstetrics](../obstetrics)
- 7. [Opthamology](../opthamology)
- 8. [Gastroenterology](../gastroenterology)
- 9. [Pediatrics](../pediatrics)
-10. [Palliativ medicine](../palliativ-medicine)
-11. [Psychiatry](../psychiatry)
-12. [Radiology](../radiology)
-13. [ENT](../ent)
-
 Overview of measures within specialties during COVID-19 pandemic
 
-Speciality guides - Advice for clinicians on COVID-19 
+Speciality guides - Advice for clinicians on COVID-19
 
 Anaesthesia and Intensive Care
 
-Airways / Intubation / Breathing 
+Airways / Intubation / Breathing
 
 Non-Invasive Ventilation from Italian Thoracic Society
 
@@ -32,9 +18,9 @@ COVID-19 airway management: better care through simulation
 
 Dominating the vent - EMCRIT
 
-The Management of the COVID-19 Patient with Respiratory Failure 
+The Management of the COVID-19 Patient with Respiratory Failure
 
-	Airway management and tracheal intubation COVID-19 - MJA
+    Airway management and tracheal intubation COVID-19 - MJA
 
 Systematic overview
 
@@ -68,7 +54,7 @@ Managing COVID-19 in General Practice
 
 American Association of Family Physicians COVID-19 resurser
 
-Immunology 
+Immunology
 
 Corona virus - T cell mediated response
 
@@ -92,7 +78,7 @@ Guidelines
 
 ACC Clinical Guidance and Practice
 
-Percutaneous coronaintervention and Covid 19 
+Percutaneous coronaintervention and Covid 19
 
 Other information
 
@@ -102,27 +88,27 @@ Diabetes och hypertoni vid Covid 19
 
 ACC Statement on Rapid Implementation of Telehealth in Cards Clinic
 
-Obstetrician 
+Obstetrician
 
-Guidelines 
+Guidelines
 
 Coronavirus infection and pregnancy
 
 Other information
 
-	•	ACOG Practice Advisory
-
-	•	Guideline pregnancy
-
-	•	CDC Pregnancy and Breastfeeding
-
-	•	CDC COCA Webinar on Pregnanct and Pediatrics
-
-	•	ACOG Outpatient Assessment of Pregnant Women with COVID-19
-
-	•	CDC and ACOG Infection Prevention and Control in Inpatient Settings
-
-	•	OUTPATIENT / URGENT CARE PROTOCOLS
+    •	ACOG Practice Advisory
+    
+    •	Guideline pregnancy
+    
+    •	CDC Pregnancy and Breastfeeding
+    
+    •	CDC COCA Webinar on Pregnanct and Pediatrics
+    
+    •	ACOG Outpatient Assessment of Pregnant Women with COVID-19
+    
+    •	CDC and ACOG Infection Prevention and Control in Inpatient Settings
+    
+    •	OUTPATIENT / URGENT CARE PROTOCOLS
 
 Ophthalmology
 
@@ -140,25 +126,25 @@ ASGE Statement on Endoscopy Precautions
 
 Paediatrics
 
-Children's Hospital Boston och Center for Bioethics Harvard Medical School perspektiv om hur man ransonerar IVA vård i dessa omständigheter. 
+Children's Hospital Boston och Center for Bioethics Harvard Medical School perspektiv om hur man ransonerar IVA vård i dessa omständigheter.
 
 Unlikeliness of newborns being infected from Covid 19 affected mother
 
-	•	AAP Early COVID-19 Data/Pedi Epidemiology 
+    •	AAP Early COVID-19 Data/Pedi Epidemiology 
+    
+    •	Mitigate the effects of home confinement on children during the COVID-19 outbreak 
+    
+    •	Clinical and CT Differences Between Peds and Adults w COVID-19
 
-	•	Mitigate the effects of home confinement on children during the COVID-19 outbreak 
-
-	•	Clinical and CT Differences Between Peds and Adults w COVID-19
-
-Psychiatry 
+Psychiatry
 
 APA - Mental health impacts resources for psychiatrists
 
 Palliative Medicine
 
-	•	WHO – World Health Organisation – Palliative Care
-
-	•	WPCA – Worldwide Palliative Care Alliance
+    •	WHO – World Health Organisation – Palliative Care
+    
+    •	WPCA – Worldwide Palliative Care Alliance
 
 Radiology
 
