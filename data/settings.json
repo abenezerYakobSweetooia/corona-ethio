@@ -10,11 +10,11 @@
       ]
     },
     {
-      "section": "Speciality",
+      "section": "speciality",
       "topics": [
         {
           "title": "Specialties",
-          "slug": "specialty"
+          "slug": "speciality"
         }
       ]
     },
