@@ -1,7 +1,7 @@
 ---
-title: Specialties
+title: Speciality
 date: 
-slug: specialty
+slug: speciality
 
 ---
 ## **Overview of measures within specialties during COVID-19 pandemic**
