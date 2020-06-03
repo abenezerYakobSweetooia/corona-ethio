@@ -12,7 +12,7 @@ slug: overview
 * [**EmCrit COVID Review**](https://emcrit.org/ibcc/covid19/)
 * [**CDC COVID Site**](https://www.cdc.gov/coronavirus/2019-ncov/)
 * [**EB Medicine COVID19 Guide**](https://www.ebmedicine.net/topics/infectious-disease/COVID-19)
-* [**UpToDate COVID19**](https://www.uptodate.com/contents/coronavirus-disease-2019-covid-19)
+* [**UpToDate COVID19**](https://www.uptodate.com/contents/coronavirus-disease-2019-covid-19-epidemiology-virology-and-prevention)
 
 ## EPIDEMIOLOGY
 
@@ -172,6 +172,8 @@ Very little known, but very small (15) case series without clear difference in o
 
 [**BMJ: Covid-19: risk factors for severe disease and death**](https://www.bmj.com/content/368/bmj.m1198)
 
+[**Obesity: High prevalence of obesity in severe acute respiratory syndrome coronavirus‐2 (SARS‐CoV‐2) requiring invasive mechanical ventilation**](https://onlinelibrary.wiley.com/doi/abs/10.1002/oby.22831)
+
 #### **_Clinical Trials_**
 
 [**Global dashboard ongoing tr**](https://www.quiverquant.com/covidtreatments/)**ials**
@@ -190,7 +192,7 @@ Very little known, but very small (15) case series without clear difference in o
 
 #### **_Courses_**
 
-?????
+[**Karolinska Institute COVID-19 courses- preventing its spread and how to use protective equipment**](https://utbildning.ki.se/covid-19-web-courses-in-various-languages)
 
 #### **_Trackers_**
 
