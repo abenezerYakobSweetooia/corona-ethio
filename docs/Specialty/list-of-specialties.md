@@ -43,7 +43,7 @@ slug: "./specialty"
 
 ## General medicine
 
-* [**Managing COVID-19 in General Practice**](https://www.futurelearn.com/courses/management-of-covid-19-in-general-practice)
+* [**Managing COVID-19 in General Practice**](https://www.futurelearn.com/courses/management-of-covid-19-in-general-practice) **-** [**course video**]()
 * [**American Association of Family Physicians COVID-19 resurser**](https://www.aafp.org/patient-care/emergency/2019-coronavirus/covid-19_resources.html)
 
 ## Immunology
@@ -142,7 +142,7 @@ slug: "./specialty"
 ### Resources
 
 * [**American College of Emergency Physicians - COVID-19**](https://www.acep.org/COVID-19)
-* [**EM:RAP CorePendium**](https://www.emrap.org/corependium/chapter/rec906m1mD6SRH9np/Novel-Coronavirus-2019-COVID-19?MainSearch="Novel+Coronavirus+2019+(COVID-19)"&SearchType="text")
+* [**EM:RAP CorePendium**](https://www.emrap.org/corependium/chapter/rec906m1mD6SRH9np/Novel-Coronavirus-2019-COVID-19?MainSearch=%22Novel+Coronavirus+2019+(COVID-19)%22&SearchType=%22text%22)
 
 ### Overall information
 
