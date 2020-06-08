@@ -193,16 +193,13 @@ Very little known, but very small (15) case series without clear difference in o
 
 * [**MDCalc: Sequential Organ Failure Assessment (SOFA) Score**](https://www.mdcalc.com/sequential-organ-failure-assessment-sofa-score)
 
+  #### Trackers
+* [**John Hopkins global COVID-19 dashboard tracker**](https://coronavirus.jhu.edu/map.html?fbclid=IwAR1R9BopZLi7WC_T-gvc7pApcdcfUgO1zH8xfQQRwQQiMl69ON2LtmwTG48)
+
 ## Courses
 
 * [**Karolinska Institute COVID-19 courses- preventing its spread and how to use protective equipment**](https://utbildning.ki.se/covid-19-web-courses-in-various-languages)
-
-
-* [**BMJ online courses for COVID-19 clinical knowledge**](https://new-learning.bmj.com/covid-19)
-
-### Trackers
-
-* [**John Hopkins global COVID-19 dashboard**](https://coronavirus.jhu.edu/map.html?fbclid=IwAR1R9BopZLi7WC_T-gvc7pApcdcfUgO1zH8xfQQRwQQiMl69ON2LtmwTG48)
+* [**BMJ courses - COVID-19 clinical knowledge**](https://new-learning.bmj.com/covid-19)
 
 ###   
 Youtube
