@@ -96,6 +96,10 @@ slug: "./specialty"
 
 * [**JAMA: Characteristics of Ocular Findings of Patients With Coronavirus Disease 2019 (COVID-19) in Hubei Province, China**](https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2764083)
 
+  ## Nephrology
+  * [**Covid-19 and acute kidney injury in hospital: summary of NICE guidelines**]()
+  * 
+
 ## Gastroenterology
 
 * [**Joint Statement from AGA, ACG, AASLD, ASGE**](https://www.gastro.org/press-release/joint-gi-society-message-covid-19-clinical-insights-for-our-community-of-gastroenterologists-and-gastroenterology-care-providers)
@@ -112,6 +116,7 @@ slug: "./specialty"
 ## Psychiatry
 
 * [**APA - Mental health impacts resources for psychiatrist**](https://www.psychiatry.org/news-room/apa-blogs/apa-blog/2020/03/covid-19-mental-health-impacts-resources-for-psychiatrists)s
+* [**Mitigating the psychological effects of social isolation during the covid-19 pandemic**](https://www.bmj.com/content/369/bmj.m1904)
 
 ## Palliative Medicine
 
