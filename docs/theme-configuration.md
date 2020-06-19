@@ -10,7 +10,7 @@ slug: treatment
 
 [A real-time dashboard of clinical trials for COVID-19](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30086-8/fulltext "A real-time dashboard of clinical trials for COVID-19")
 
-[Potential COVID-19 Treatments](https://www.medscape.com/viewarticle/927453?nlid=134727_3901&src=wnl_newsalrt_200328_MSCPEDIT&uac=296399SN&impID=2327297&faf=1#vp_2 "Potential COVID-19 Treatments")
+[**Medscape Sammanställning**](https://www.medscape.com/viewarticle/927453?nlid=134727_3901&src=wnl_newsalrt_200328_MSCPEDIT&uac=296399SN&impID=2327297&faf=1#vp_2)
 
 [Harvard medical school advise for treatments and summary of trials](https://www.health.harvard.edu/diseases-and-conditions/treatments-for-covid-19 "Harvard medical school advise for treatments and summary of trials")
 
